@@ -1,6 +1,6 @@
 import random
 import string
-#Anthony
+#cameron
 print("_" * 30)
 print("\n\n\nWord guessing game.")
 print("_" * 30)
